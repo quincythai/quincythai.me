@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>homepage</h1>
-    <p>welcome home du...</p>
+    <h1 class="">homepage</h1>
+    <p class="italic">welcome home du...</p>
+    <!-- <img src="@/assets/404.gif" alt="Not Found" /> -->
   </div>
 </template>
 
